@@ -6,7 +6,7 @@ This is a custom ArcGIS Web App Builder (Developer Edition) widget. It is design
 [Project Name Here]()
 
 <Add screenshot of Widget in Action>
-![Widget UI](/../master/README_img/WidgetUI.png?raw=true)
+![Widget UI](/../master/README_img/WidgetUI.PNG?raw=true)
 
 ##Installing The Widget
 
