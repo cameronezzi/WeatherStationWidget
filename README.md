@@ -35,7 +35,7 @@ Follow the steps on Esri's Developer site to [create a New App](https://develope
 Once you select the widget from the widget list you will need to modify the configuration parameters to use the appropriate Weather Station feature service. Below is a key - value map to help you out.
 
 <Add screenshot of Config Page>
-![Photo of Config Page](http://placehold.it/350x150)
+![Photo of Config Page](/../master/README_img/Configuration.png?raw=true)
 
 
 
