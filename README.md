@@ -37,7 +37,24 @@ Once you select the widget from the widget list you will need to modify the conf
 <Add screenshot of Config Page>
 ![Photo of Config Page](/../master/README_img/Configuration.png?raw=true)
 
-
+* **weatherDataService** - URL of Feature Service containing weather data related to the Weather Station feature service
+* **date_epoch** - The name of the Date field (formatted as epoch time) from the *weatherDataService* REST endpoint.
+* **station_id** - The name of the station_id field from the *weatherDataService* REST endpoint. This id associates weather data with   the appropriate weather station in the map.
+* **barometer** - The name of the barometer field from the *weatherDataService* REST endpoint.
+* **pressure** - The name of the pressure field from the *weatherDataService* REST endpoint.
+* **altimeter** - The name of the altimeter field from the *weatherDataService* REST endpoint.
+* **outTemp** - The name of the outside temperature field from the *weatherDataService* REST endpoint.
+* **outHumidity** - The name of the outdoor humidity field from the *weatherDataService* REST endpoint.
+* **windSpeed** - The name of the wind speed field from the *weatherDataService* REST endpoint.
+* **windDir** - The name of the wind direction field from the *weatherDataService* REST endpoint.
+* **windGust** - The name of the wind gust field from the *weatherDataService* REST endpoint.
+* **windGustDir** - The name of the wind gust direction field from the *weatherDataService* REST endpoint.
+* **rainRate** - The name of the rain rate field from the *weatherDataService* REST endpoint.
+* **rain** - The name of the rainfall field from the *weatherDataService* REST endpoint.
+* **dewPoint** - The name of the dew point field from the *weatherDataService* REST endpoint.
+* **windChill"** - The name of the wind chill field from the *weatherDataService* REST endpoint.
+* **heatIndex** - The name of the heat index field from the *weatherDataService* REST endpoint.
+* **stationLayer** - The display name of the weather station layer is it appears in the Layer List of the web map chosen for the application.
 
 
 
