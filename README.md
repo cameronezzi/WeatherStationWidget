@@ -1,6 +1,6 @@
 #Weather Station Widget
 
-This is a custom ArcGIS Web App Builder (Developer Edition) widget. It is designed to work with a Weather Station feature service in an ArcGIS Online Web Map. The widget pulls and summarizes weather data pulled from a table related to the Weather Station feature service. Below is a sample of the widgets' user interface. This widget was created internally as part of a project to educate students on using a microcomputer (Rasberry Pi) to pull weather data  from a weather station and push it to a REST API using python. Check out the full project here:
+This is a custom ArcGIS Web App Builder (Developer Edition) widget. It is designed to work with a Weather Station feature service in an ArcGIS Online Web Map. The widget pulls and summarizes weather data from a table related to the Weather Station feature service. Below is a sample of the widgets' user interface. This widget was created internally as part of a project to educate students on using a microcomputer (Rasberry Pi) to pull weather data  from a weather station and push it to a REST API using python. Check out the full project here:
 
 <Change project name, add URL in brackets>
 [Project Name Here]()
